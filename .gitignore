@@ -1,0 +1,14 @@
+.lein-cljsbuild-compiler-0
+.lein-cljsbuild-repl
+.lein-plugins
+.lein-deps-sum
+*.swn
+*.swo
+*.swp
+resources/
+hlwork/
+out/
+lib/
+classes/
+target/
+doc
